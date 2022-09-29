@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/interactive-calculator/static/css/main.866a7e06.css",
+    "main.js": "/interactive-calculator/static/js/main.325d4b67.js",
+    "static/media/DiseñazooPau.png": "/interactive-calculator/static/media/DiseñazooPau.2139f5e0ac0a56d07c49.png",
+    "index.html": "/interactive-calculator/index.html",
+    "main.866a7e06.css.map": "/interactive-calculator/static/css/main.866a7e06.css.map",
+    "main.325d4b67.js.map": "/interactive-calculator/static/js/main.325d4b67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.866a7e06.css",
+    "static/js/main.325d4b67.js"
+  ]
+}
